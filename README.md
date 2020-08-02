@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey, I'm Francisco Lucio S. Bustamante aka Chico Lucio! :wave: :vulcan_salute:
 
-<!--
-**chicolucio/chicolucio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :popcorn: Content Creator at [Youtube](https://www.youtube.com/channel/UCrUs_osDl_GaHgUdU7v3YGw) with my science communication project [Ciência Programada](cienciaprogramada.com.br)
+- :man_scientist: Chemistry :man_teacher: teacher
+- :brazil: Born and living in Rio de Janeiro, Brazil
+- :computer: :snake: Python, :infinity: LaTeX and :penguin: Linux
 
-Here are some ideas to get you started:
+### What I'm working on :construction_worker_man:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Science communication with programming at [Ciência Programada](cienciaprogramada.com.br)
+
+### Find me elsewhere :earth_americas:
+
+- Personal links:
+  - :rocket: [Site](https://chicolucio.com.br)
+  - :briefcase: [LinkedIn](https://www.linkedin.com/in/flsbustamante/)
+- Ciência Programada project links:
+  - :rocket: [Site](https://cienciaprogramada.com.br)
+  - :bird: [Twitter](https://twitter.com/cienciaprog)
+  - :camera_flash: [Instagram](https://instagram.com/cienciaprogramada)

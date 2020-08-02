@@ -1,13 +1,13 @@
 ### Hey, I'm Francisco Lucio S. Bustamante aka Chico Lucio! :wave: :vulcan_salute:
 
-- :popcorn: Content Creator at [Youtube](https://www.youtube.com/channel/UCrUs_osDl_GaHgUdU7v3YGw) with my science communication project [Ciência Programada](cienciaprogramada.com.br)
+- :popcorn: Content Creator at [Youtube](https://www.youtube.com/channel/UCrUs_osDl_GaHgUdU7v3YGw) with my science communication project [Ciência Programada](https://cienciaprogramada.com.br)
 - :man_scientist: Chemistry :man_teacher: teacher
 - :brazil: Born and living in Rio de Janeiro, Brazil
 - :computer: :snake: Python, :infinity: LaTeX and :penguin: Linux
 
 ### What I'm working on :construction_worker_man:
 
-- Science communication with programming at [Ciência Programada](cienciaprogramada.com.br)
+- Science communication with programming at [Ciência Programada](https://cienciaprogramada.com.br)
 
 ### Find me elsewhere :earth_americas:
 

@@ -6,7 +6,7 @@
 
 ### Find me elsewhere :earth_americas:
 
-- :rocket: [Site](https://chicolucio.com.br)
+- :rocket: [Site](https://franciscobustamante.com.br)
 - :briefcase: [LinkedIn](https://www.linkedin.com/in/flsbustamante/)
 
 ### Technologies & Tools :wrench:

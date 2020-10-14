@@ -23,5 +23,5 @@
 
 ### GitHub Stats :chart_with_upwards_trend:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chicolucio&hide=Jupyter%20Notebook)](https://github.com/chicolucio/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chicolucio&count_private=true&show_icons=true)](https://github.com/chicolucio/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chicolucio&hide=Jupyter%20Notebook,CSS,HTML)](https://github.com/chicolucio/github-readme-stats)
+[![chicolucio's github stats](https://github-readme-stats.vercel.app/api?username=chicolucio&count_private=true&show_icons=true)](https://github.com/chicolucio/github-readme-stats)

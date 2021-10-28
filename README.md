@@ -1,4 +1,4 @@
-# Hey, I'm Francisco Lucio S. Bustamante aka Chico Lucio! :wave: :vulcan_salute:
+# Hey, I'm Francisco Lucio Bustamante aka Chico Lucio! :wave: :vulcan_salute:
 
 I'm a chemist working with data science and developing educational softwares. Experienced with finding solutions using data, taking projects from end to end, from the identification of the problem to the deployment of a solution.
 

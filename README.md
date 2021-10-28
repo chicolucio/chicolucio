@@ -1,37 +1,40 @@
-### Hey, I'm Francisco Lucio S. Bustamante aka Chico Lucio! :wave: :vulcan_salute:
+# Hey, I'm Francisco Lucio S. Bustamante aka Chico Lucio! :wave: :vulcan_salute:
 
-- :man_scientist: Chemistry :man_teacher: teacher
-- :brazil: Born and living in Rio de Janeiro, Brazil
-- :computer: :snake: Python, :infinity: LaTeX and :penguin: Linux
+I'm a chemist working with data science and developing educational softwares. Experienced with finding solutions using data, taking projects from end to end, from the identification of the problem to the deployment of a solution.
 
-### What I'm working on :construction_worker_man:
+
+## What I'm working on :construction_worker_man:
 
 - Science communication with programming at [Ciência Programada](https://cienciaprogramada.com.br)
 
-### Find me elsewhere :earth_americas:
+## Technologies & Tools :wrench:
 
-- Personal links:
-  - :rocket: [Site](https://franciscobustamante.com.br)
-  - :briefcase: [LinkedIn](https://www.linkedin.com/in/flsbustamante/)
-- Ciência Programada project links:
-  - :rocket: [Site](https://cienciaprogramada.com.br)
-  - :bird: [Twitter](https://twitter.com/cienciaprog)
-  - :camera_flash: [Instagram](https://instagram.com/cienciaprogramada)
+<div style="display: inline_block">
+  <img align="center" alt="python-logo" height="50" width="50" style="background-color:white;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="pandas-logo" height="50" width="50" style="background-color:white;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="numpy-logo" height="50" width="50" style="background-color:white;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg">
+  <img align="center" alt="matplotlib-logo" height="50" width="200" style="background-color:white;" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Matplotlib_logo.svg/320px-Matplotlib_logo.svg.png">
+  <img align="center" alt="plotly-logo" height="50" width="150" style="background-color:white;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/320px-Plotly-logo-01-square.png">
+  <img align="center" alt="jupyter-logo" height="50" width="50" style="background-color:white;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="linux-logo" height="50" width="50" style="background-color:white;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="git-logo" height="50" width="50" style="background-color:white;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="bash-logo" height="50" width="50" style="background-color:white;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="center" alt="vim-logo" height="50" width="50" style="background-color:white;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
+  <img align="center" alt="latex-logo" height="50" width="150" style="background-color:white;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/LaTeX_project_logo_bird.svg/316px-LaTeX_project_logo_bird.svg.png">
+  <img align="center" alt="trello-logo" height="50" width="50" style="background-color:white;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg">
+  <img align="center" alt="vscode-logo" height="50" width="50" style="background-color:white;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
+  <img align="center" alt="wordpress-logo" height="50" width="50" style="background-color:white;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
+</div>
 
-### Technologies & Tools :wrench:
+## Find me elsewhere :earth_americas:
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-MS_Excel-informational?style=flat&logo=Microsoft%20Excel&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Data_Science-Anaconda-informational?style=flat&logo=Anaconda&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Emacs-informational?style=flat&logo=GNU%20Emacs&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=Vim&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+<div style="display: inline_block"> 
+  <a href="https://www.linkedin.com/in/flsbustamante" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://franciscobustamante.com.br" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:flsbustamate[at]gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://t.me/chicolucio"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+</div>
 
-### GitHub Stats :chart_with_upwards_trend:
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chicolucio&hide=Jupyter%20Notebook,CSS,HTML)](https://github.com/chicolucio/github-readme-stats)
-[![chicolucio's github stats](https://github-readme-stats.vercel.app/api?username=chicolucio&count_private=true&show_icons=true)](https://github.com/chicolucio/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=chicolucio&style=plastic) since October 2021

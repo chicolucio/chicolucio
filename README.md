@@ -72,6 +72,6 @@ community for some time.
 ![](https://komarev.com/ghpvc/?username=chicolucio&style=plastic) since October 2021
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=chicolucio&show_icons=true&count_private=true&theme=gotham&include_all_commits=false" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chicolucio&layout=compact&theme=gotham&langs_count=6&hide=jupyter%20notebook, scss" height="165">
+  <img src="https://github-readme-stats-chicolucio.vercel.app/api?username=chicolucio&show_icons=true&count_private=true&theme=gotham&include_all_commits=true" height="165">
+  <img src="https://github-readme-stats-chicolucio.vercel.app/api/top-langs/?username=chicolucio&layout=compact&theme=gotham&langs_count=6&hide=jupyter%20notebook,scss,html,css" height="165">
 </a>

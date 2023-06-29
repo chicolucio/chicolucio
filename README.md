@@ -10,7 +10,6 @@ community for some time.
 - [Data Science projects](https://github.com/chicolucio/portfolio-data-science)
 - [Interactive visualization projects](https://github.com/chicolucio/portfolio-interactive-visualizations)
 - Content creator at [Ciência Programada](https://cienciaprogramada.com.br)
-- Content creator at [Chemistry Programming](https://chemistryprogramming.xyz)
 
 ## Find me elsewhere :earth_americas:
 
